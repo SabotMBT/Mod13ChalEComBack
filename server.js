@@ -1,6 +1,8 @@
-const express = require('express');
-const routes = require('./routes');
+const express = require("express");
+const routes = require("./routes");
+require("dotenv").config();
 // import sequelize connection
+const sequelize = require("sequelize");
 
 const app = express();
 const PORT = process.env.PORT || 3001;
