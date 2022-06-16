@@ -48,4 +48,4 @@
 
 ## Walkthrough
 
-- A video walkthrough is available here: placeholder
+- A video walkthrough is available here: https://www.youtube.com/watch?v=o4czms92d8k
