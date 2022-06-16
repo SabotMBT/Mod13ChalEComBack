@@ -29,7 +29,9 @@
 
 - Open db/schema.sql with MySQL Workbench and run it, or access the MySQL shell in your command line program and run 'SOURCE db/schema.sql' without the quotes. 
 
-- In your command prompt, type 'npm run start' without the quotes.
+- In your command prompt, type 'npm run seed' without the quotes to put data into the DB
+
+- Next, type 'npm run start' without the quote to start the server.
 
 - Open Insomnia and make API requests at the appropraite URL (defaults to http://localhost3001/ )
 
