@@ -27,9 +27,9 @@
 
 ## Usage
 
-- Open db/schema.sql with MySQL Workbench, or access the MySQL shell in your command line program and run 'SOURCE db/schema.sql' without the quotes. 
+- Open db/schema.sql with MySQL Workbench and run it, or access the MySQL shell in your command line program and run 'SOURCE db/schema.sql' without the quotes. 
 
-- In your command prompt, type 'npm start' without the quotes.
+- In your command prompt, type 'npm run start' without the quotes.
 
 - Open Insomnia and make API requests at the appropraite URL (defaults to http://localhost3001/ )
 
